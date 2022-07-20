@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">App Cm</string>
+    <string name="photos">Photos</string>
+    <string name="posts">Posts</string>
+    <string name="users">Users</string>
+    <string name="zipcode">92998-3874</string>
+    <string name="city">Gwenborough</string>
+    <string name="suite">Apt. 556</string>
+    <string name="street">Kulas Light</string>
+    <string name="email">Sincere@april.biz</string>
+    <string name="username">Bret</string>
+    <string name="name">Leanne Graham</string>
+    <string name="user">User</string>
+    <string name="userid">userId</string>
+    <string name="id">id</string>
+    <string name="title">title</string>
+    <string name="body">body</string>
+    <string name="url">url</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

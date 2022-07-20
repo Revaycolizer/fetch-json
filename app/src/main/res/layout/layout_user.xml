@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    app:cardElevator="8dp"
+    android:layout_margin="8dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:android="@+id/image_photos"
+                android:layout_width="100dp"
+                android:layout_height="100dp"/>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:textColor="@android:color/black"
+                    android:textStyle="bold"
+                    android:textSize="20sp"
+                    android:text="@string/user"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:ignore="DuplicateIds" />
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:textColor="@android:color/black"
+                    android:textStyle="normal"
+                    android:textSize="16sp"
+                    android:text="@string/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:ignore="DuplicateIds" />
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:textColor="@android:color/black"
+                    android:textStyle="italic"
+                    android:textSize="16sp"
+                    android:text="@string/username"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:ignore="DuplicateIds" />
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:textColor="@android:color/black"
+                    android:textStyle="italic"
+                    android:textSize="16sp"
+                    android:text="@string/email"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:ignore="DuplicateIds" />
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:textColor="@android:color/black"
+                    android:textStyle="italic"
+                    android:textSize="16sp"
+                    android:text="@string/street"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:ignore="DuplicateIds" />
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:textColor="@android:color/black"
+                    android:textStyle="italic"
+                    android:textSize="16sp"
+                    android:text="@string/suite"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:ignore="DuplicateIds" />
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:textColor="@android:color/black"
+                    android:textStyle="italic"
+                    android:textSize="16sp"
+                    android:text="@string/city"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:ignore="DuplicateIds" />
+
+                <TextView
+                    android:id="@+id/txt_name"
+                    android:textColor="@android:color/black"
+                    android:textStyle="italic"
+                    android:textSize="16sp"
+                    android:text="@string/zipcode"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    tools:ignore="DuplicateIds" />
+
+
+
+
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
