@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/activity_main.xml" value="0.19801980198019803" />
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/adapter.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/fragment_photos_.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/fragment_posts_.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/fragment_user_.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/items.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/layout_photo.xml" value="0.22201946472019465" />
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/layout_post.xml" value="0.17255434782608695" />
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/layout_user.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Desktop/AppCm/app/src/main/res/layout/posts.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="retrofit2.http.GET" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
